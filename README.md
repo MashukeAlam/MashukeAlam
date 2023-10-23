@@ -18,6 +18,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 
+
 - 🔭 I’m currently working on **a company project that specializes on money management**
 
 - 🌱 I’m currently learning **Machine Learning, Language Models**
@@ -28,7 +29,8 @@
 
 - 📫 How to reach me **jimmashuke@gmail.com | mashuke@nascenia.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mashukjim/](https://www.linkedin.com/in/mashukjim/)
+- 📄 Know about my experiences [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashukjim/) 
+
 
 <p align="left">
 <a href="https://www.leetcode.com/https://leetcode.com/mashukjim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mashukjim/" height="30" width="40" /></a>
@@ -44,7 +46,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashukealam&" alt="mashukealam" />
 
 </div>
-
-
+<!--
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/mashukjim"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mashukjim" /></a></p><br><br>
+<p><a href="https://ko-fi.com/mashukjim"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mashukjim" /></a></p><br><br> -->
