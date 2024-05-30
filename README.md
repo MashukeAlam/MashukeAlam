@@ -26,11 +26,8 @@
 
 
 <div style="display: flex">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashukealam&show_icons=true&locale=en" alt="mashukealam" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashukealam&theme=gradient&show_icons=true&locale=en" alt="mashukealam" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mashukjim&layout=compact" alt="mashukealam" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashukealam&" alt="mashukealam" />
 
 </div>
-<!--
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/mashukjim"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mashukjim" /></a></p><br><br> -->
