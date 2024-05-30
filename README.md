@@ -26,8 +26,7 @@
 
 
 <div style="display: flex">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashukealam&theme=gradient&show_icons=true&locale=en" alt="mashukealam" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mashukjim&layout=compact" alt="mashukealam" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mashukealam&theme=dracula&show_icons=true&locale=en" alt="mashukealam" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashukealam&" alt="mashukealam" />
 
 </div>
