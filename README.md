@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Jim here!</h1>
 <h3 align="center">A passionate engineer willing to make cool softwares.</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ruby,go,cpp,java,HTML,htmx,css,elixir,aws,linux,windows,mongo,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ruby,go,cpp,java,html,htmx,css,elixir,aws,linux,windows,mongo,postgres,MySQL?perline=7)](https://skillicons.dev)
 
 
 - 🔭 I’m currently working on **a company project that specializes on money management**
