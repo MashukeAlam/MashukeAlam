@@ -28,5 +28,8 @@
 <div style="display: flex">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mashukealam&theme=dracula&show_icons=true&locale=en" alt="mashukealam" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mashukealam&" alt="mashukealam" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+
 
 </div>
