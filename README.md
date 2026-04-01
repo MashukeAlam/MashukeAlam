@@ -1,8 +1,8 @@
 <h1 align="center">Jim here!</h1>
 <h3 align="center">A passionate engineer willing to make cool softwares.</h3>
-<h3 align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=js,ruby,go,cpp,java,html,htmx,css,react,tailwindcss,nodejs,rails,aws,mongo,postgres,MySQL?perline=7)](https://skillicons.dev)
-</h3>
+
 
 - I’m currently working on **a company project that specializes on tax management**
 
